@@ -1,4 +1,4 @@
-# Number Adder Program
+# Sum of Numbers Program
 
 This is a simple Python program that calculates the sum of numbers from 1 to a user-defined number using a loop. It prompts the user for input, iterates over the numbers, and outputs the total sum.
 
